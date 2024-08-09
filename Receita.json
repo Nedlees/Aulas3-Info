@@ -1,0 +1,28 @@
+{
+    "Receitas" : [
+        {
+            "Nome": "Caruru",
+            "Tempo de Preparo": "Até 2 Hrs",
+            "Porções": "Até 6 porções",
+            "Ingredientes": [
+                "600g de Quiabo (Aproximadamente 60 unidades",
+                "1 Cebola",
+                "1/4 de xícara (Chá) de camarão seco descascado",
+                "1/4 de xícara (Chá) de castanha-de-caju torrada",
+                "1 xícara (chá) Amendoim sem casca",
+                "1 xícara e 1/2 (Chá) de água",
+                "2 colheres (Sopa) de gengibre ralado",
+                "2 colheres (Sopa) de azeite de dendê",
+                "Sal a gosto"
+            ],
+            "Instruções": {
+
+                "1.": "Numa tigela grande, coloque o quiavo e cubra com água e 1 colher (sopa) de vinagre. Deixe de molho por 10 minutos, retire o quiabo e espalhe num pano para secar. Enquanto isso, descasque e pique fino a cebola.",
+                "2." : "Numa tábua, corte e dispense o topo do quiabo. No sentido do comprimento, corte o legume em quatro partes; mantenha as partes juntas e fatie.",
+                "3." : "Leve uma panela ao fogo médio. Quando aquecer, junte o azeite de dendê e refogue a cebola por 5 minutos. Junte os cubinhos de quiabo, tempere com sal e refogue por 15 minutos, mexendo de vez em quando.",
+                "4." : "Enquanto isso no liquidificador, bata o camarão seco com o amendoim, a castanha e 1/2 xícara (chá) de água, até formar uma pasta.",
+                "5." : "Depois dos 15 minutos, mexendo sempre para não queimar. Verifique o sabor e, se necessário, ajuste o saç. Sirva bem quente."
+            }
+        }
+    ]
+}

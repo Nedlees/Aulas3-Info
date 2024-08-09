@@ -1,0 +1,25 @@
+{
+    "Produtos" : [
+        {
+        "id": 1,
+        "Nome" : "Camiseta",
+        "Preco" : 29.99,
+        "Categoria" : "Roupas",
+        "Estoque" : 100
+        },
+    {
+        "id" : 2,
+        "Nome" : "Tenis",
+        "Preco" : 19.90,
+        "Categoria" : "Calçados",
+        "Estoque" : 50
+        },
+    {
+    "id": 3,
+        "Nome" : "Relogio",
+        "Preco" : 199.90,
+        "Categoria" : "Acessorios",
+        "Estoque" : 30
+    }
+    ]
+    }

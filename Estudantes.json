@@ -1,0 +1,22 @@
+{
+    "Estudantes" : [
+        {
+            "Nome" : "Luiz",
+            "Idade" : 15,
+            "Notas" : [8,7,9],
+            "Aprovado" : true
+        },
+        {
+            "Nome" : "Gleice",
+            "Idade" : 16,
+            "Notas" : [4,3,5],
+            "Aprovado" : false
+        },
+        {
+            "Nome" : "Carlos",
+            "Idade" : 16,
+            "Notas" : [10,10,10],
+            "Aprovado" : true
+        }
+    ]
+}

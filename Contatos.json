@@ -1,0 +1,36 @@
+{
+    "Contatos" : [
+        {
+    "Nome" : "Matheus",
+    "Telefone" : "00 12345-6789",
+    "E-mail" : "email@email.com",
+    "Endereço" : {
+        "Rua" : "xxxxx",
+        "Cidade" : "Bauru",
+        "Estado" : "SP"
+    }
+        },
+        {
+
+    "Nome" : "Renatao",
+    "Telefone" : "00 12345-6789",
+    "E-mail" : "email@email.com",
+    "Endereço" : {
+        "Rua" : "xxxxx",
+        "Cidade" : "Bauru",
+        "Estado" : "SP"
+    }
+        },
+        {
+
+        "Nome" : "Jecca",
+        "Telefone" : "00 12345-6789",
+        "E-mail" : "email@email.com",
+        "Endereço" : {
+            "Rua" : "xxxxx",
+            "Cidade" : "Bauru",
+            "Estado" : "SP"
+            }
+        }
+    ]
+}
